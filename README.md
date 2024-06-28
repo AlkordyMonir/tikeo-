@@ -4,13 +4,13 @@
 ![GitHub issues](https://img.shields.io/github/issues/Simplon-hdf/structure-projet?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
 
-<h1 align="center">Project name</h1>
+<h1 align="center">Tikeo</h1>
 
 <div align="center">
 
 ## Project Description
 
-Ce dépôt est une structure permettant de démarrer un projet professionnel ou personnel. Ceci vous fera gagner un temps précieux et maximiser votre temps de travail.
+Tikeo est un outil de gestion des tickets conçu pour ChamberSign, destiné à optimiser l'efficacité et la rapidité de traitement des demandes. Il offre une solution robuste et intuitive pour enregistrer, suivre, et résoudre les tickets de manière organisée. Avec des fonctionnalités avancées pour grouper et prioriser les tickets, Tikeo garantit une réponse rapide et efficace aux utilisateurs..
 
 </div>
 
