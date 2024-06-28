@@ -10,7 +10,9 @@
 
 ## Project Description
 
-Tikeo est un outil de gestion des tickets conçu pour ChamberSign, destiné à optimiser l'efficacité et la rapidité de traitement des demandes. Il offre une solution robuste et intuitive pour enregistrer, suivre, et résoudre les tickets de manière organisée. Avec des fonctionnalités avancées pour grouper et prioriser les tickets, Tikeo garantit une réponse rapide et efficace aux utilisateurs..
+Tikeo est un outil de gestion des tickets conçu pour ChamberSign, destiné à optimiser l'efficacité et la rapidité de traitement des demandes. 
+Il offre une solution robuste et intuitive pour enregistrer, suivre, et résoudre les tickets de manière organisée. 
+Avec des fonctionnalités avancées pour grouper et prioriser les tickets, Tikeo garantit une réponse rapide et efficace aux utilisateurs..
 
 </div>
 
