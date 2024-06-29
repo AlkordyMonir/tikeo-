@@ -17,6 +17,7 @@ Avec des fonctionnalités avancées pour grouper et prioriser les tickets, Tikeo
 </div>
 
 ## About The Project
+![image](https://github.com/AlkordyMonir/tikeo-/assets/129857970/c56a62da-a841-4e10-9e80-85ea09add998)
 
 ### Built With
 
