@@ -5,7 +5,11 @@
 ![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
 
 <h1 align="center">Tikeo</h1>
+<div align="center">
+ 
+![image](https://github.com/AlkordyMonir/tikeo-/assets/129857970/7ff4bc85-0b65-46df-8024-42c4058f8228)
 
+</div>
 <div align="center">
 
 ## Project Description
@@ -28,6 +32,7 @@ Avec des fonctionnalités avancées pour grouper et prioriser les tickets, Tikeo
 ### Identité visuelle
 ![image](https://github.com/AlkordyMonir/tikeo-/assets/129857970/67d36f39-a5e7-4718-add3-941eb31134f4)
 
+![image](https://github.com/AlkordyMonir/tikeo-/assets/129857970/b2583613-abf3-4cef-8ff7-0d86715c9093)
 
  
 <details>
